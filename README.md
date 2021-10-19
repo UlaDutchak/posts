@@ -1,9 +1,15 @@
-# React TypeScript Starter Pack
+# LIST OF POSTS
 
-To use this template click `Use this template`
+1. [DEMO LINK](https://uladutchak.github.io/posts/)
 
-### Available Scripts
+# Local development
 
-`Deploy` - available to deploy your application to gh-pages
+1. Tech stack used in the project: ReactJS, TypeScript.
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+
+# Installing
+1. Fork and clone this repository
+2. Run npm install in your terminal
+3. Run npm start
+# Troubleshooting
+For any suggestions or error reports send me an email: ulana.dutchak@gmail.com
